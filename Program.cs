@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Primeiro
 {
-    internal class Program
+    internal class Program //Nomes: João Vitor Acordi, Murilo Ferraz, Lucius Crotti
     {
         static void Main(string[] args)
         {
